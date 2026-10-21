@@ -6,6 +6,10 @@ div.form-example {
   display: table-row;
 }
 
+.cool-words{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
 label,
 input {
   display: table-cell;
